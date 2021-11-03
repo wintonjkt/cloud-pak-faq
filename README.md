@@ -50,3 +50,5 @@
     
   https://www.ibm.com/software/passportadvantage/containerfaqov.html
   
+  IBM License Service can be installed as operator running on OpenShift. The guide to install IBM License Service can be found here: https://www.ibm.com/docs/en/api-connect/10.0.1.x?topic=configuration-installing-license-service
+  
