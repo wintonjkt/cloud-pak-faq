@@ -1,6 +1,6 @@
 # cloud-pak-faq  
   
-  ## How can Cloud Pak customer download OpenShift for installation? 
+  ## Q: How can Cloud Pak customer download OpenShift for installation? 
   
   https://www.ibm.com/docs/en/cloud-paks/1.0?topic=suocpc-accessing-red-hat-entitlements-from-your-cloud-paks
   
@@ -15,3 +15,7 @@
   7. You do not need a paid Red Hat subscription entitlement to access any IBM® offering.
   8. On the Red Hat Review order summary page, verify that the information is correct and click Next.
   9. On the Red Hat Link your Red Hat Account page, select Assign the Red Hat subscriptions to this Red Hat account and link my IBM order, accept the Enterprise agreement terms, then click Confirm.
+  
+    ## Q: How to contact IBM Support related to account access to Red Hat?
+    
+    Send email to apecare@sg.ibm.com and describe the support needed  
