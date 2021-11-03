@@ -43,4 +43,10 @@
 •    Click on “Redchat account & Order info”  
 •    Click on " Link with Red Hat account"  
 •    It will take you to a Red hat website where you need to link your Red hat account.  
+
+  ## Q: How can we track usage of IBM container software?
+  
+  Yes, the use of the IBM License Service is required for containerization licensing. It is different than ILMT and free of charge. 
+    
+  https://www.ibm.com/software/passportadvantage/containerfaqov.html
   
