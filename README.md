@@ -18,3 +18,21 @@
 ## Q: How to contact IBM Support related to account access to Red Hat?
     
     Send email to apecare@sg.ibm.com and describe the support needed  
+## Q: Step by step guide to download Red Hat from Passport Advantage Online  
+  
+  Below is the advise from apecare@sg.ibm.com
+  
+  Please find below the instructions to download the software:  
+  
+•    Log on to:  www.ibm.com/software/passportadvantage  
+•    Click on “Click on Passport Advantage Online”  
+•    Click on “Customer sign in”  
+•    Enter your IBM ID and Password  
+•    Under “Software download and media access” click on Software Download  
+•    Search "E0PPBLL" by using the " Part Number"  
+•    Click IBM Cloud Pak for Integration  
+•    Click on " Go"  
+•    Click on “Redchat account & Order info”  
+•    Click on " Link with Red Hat account"  
+•    It will take you to a Red hat website where you need to link your Red hat account.  
+  
