@@ -1,4 +1,12 @@
-# cloud-pak-faq  
+# FAQ of Cloud Pak
+  
+  ## Q: Can we use the OCP cluster for Cloud Pak with non Cloud Pak workload?
+  
+  No, non cloud pak workload needs to be deployed into separate cluster
+  
+  ## Q: What are the types of storage software that can work with Cloud Pak?
+  
+  OpenShift Data Foundation (previously Openshift Container Software), Ceph or Portworx. Customer can buy Storage Suite for Cloud Pak as license for storage software needed. SS4CP is licensed based on the VPC used by the storage software. SS4CP standard edition entitles customer 2TB of storage per VPC of SS4CP.
   
   ## Q: How can Cloud Pak customer download OpenShift for installation? 
   
